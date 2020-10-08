@@ -41,7 +41,6 @@ class TestCalculateMedian {
         Double[] parsedArray = parseToArray(valueList);
 
         if(checkValues(parsedArray)){
-            System.out.println("a number is over 10000");
             return 0.0;
         }
 
